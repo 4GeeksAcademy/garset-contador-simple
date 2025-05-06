@@ -9,3 +9,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counter-holder {
+    background-color: black;
+    width: 80%;
+    display:flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 1rem;
+ }
+
+ .digi {
+    color: white;
+    font-weight: bolder;
+    font-size: 3rem;
+    padding: 0.5rem;
+}
